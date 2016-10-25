@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Democratic Databases"
+title:  "Democratic Databases : science on GitHub"
 date:   2016-10-25 22:01:00 +0200
 categories: democratic_databases
 author : wazaahhh
@@ -43,10 +43,6 @@ author : wazaahhh
 - [Figshare](https://figshare.com/)
 
 
-[Caitlin River]: https://avatars1.githubusercontent.com/u/1302262?v=3&s=400
-[dfalster]:https://avatars0.githubusercontent.com/u/3589590?v=3&s=400
-
-
 <br>
 
 ***
@@ -56,3 +52,6 @@ author : wazaahhh
 - [Data Carpentry](http://www.datacarpentry.org/)
 - [Software Carpentry](software-carpentry.org)
 - [bitbucket](https://bitbucket.org/)
+
+[Caitlin River]: https://avatars1.githubusercontent.com/u/1302262?v=3&s=400
+[dfalster]:https://avatars0.githubusercontent.com/u/3589590?v=3&s=400
