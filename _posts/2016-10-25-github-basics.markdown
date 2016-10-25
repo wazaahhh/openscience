@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GitHub Basics"
-date:   2016-10-25 22:00:00 +0200
+date:   2016-10-25 22:01:20 +0200
 categories: github
 author : wazaahhh
 ---
@@ -36,3 +36,10 @@ author : wazaahhh
 
 - **More Operational Details:**
   - [How To](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
+
+<br>
+
+
+![octocat][octocat]
+
+[octocat]:http://www.solidonline.com/EN/images/solid-footer-logo/Logo-Github-Social-Coding.png
