@@ -2,12 +2,13 @@
 layout: post
 title:  "Un Parfait Manuel de Github pour Data Science"
 date:   2016-10-23 20:00:00 +0200
-categories: text1 
+categories: democratic_databases
+author : yassinhediger
 ---
 
-Voici mon avis après avoir parcouru le blog Democratic databases. 
-Premièrement, j’ai vraiment apprécié la manière dont Jeffrey Perkel aborde le sujet. 
-C’est un article très abordable pour les novices en informatique 
+Voici mon avis après avoir parcouru le blog Democratic databases.
+Premièrement, j’ai vraiment apprécié la manière dont Jeffrey Perkel aborde le sujet.
+C’est un article très abordable pour les novices en informatique
 et il commence directement par un exemple concret à propos d’un travail
 effectué sur la plateforme GitHub. Après avoir fait la démonstration de l’utilité de la plateforme, il
 fait un zoom sur les avantages de la plateforme en elle-même toujours en donnant des exemples
