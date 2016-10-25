@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "homework"
+date:   2016-10-25 15:35:27 +0200
+categories: jekyll update
+---
+
+
+
+- Make a contribution on Open Street Map. 
+	- http://learnosm.org
+	- https://www.openstreetmap.org
+
+- Read about WAZE app. 
+	- https://en.wikipedia.org/wiki/Waze
+
+- Read the Terms of Use, including Privacy Policy and Copyright policy 
+	- https://www.waze.com/fr/legal/tos
+
+- Optional: Install and have a look at WAZE app. 
+
