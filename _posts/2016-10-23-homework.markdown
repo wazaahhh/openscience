@@ -2,7 +2,7 @@
 layout: post
 title:  "homework"
 date:   2016-10-25 15:35:27 +0200
-categories: jekyll update
+categories: homework
 ---
 
 
