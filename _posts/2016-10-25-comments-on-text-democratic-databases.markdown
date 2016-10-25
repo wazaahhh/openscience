@@ -51,31 +51,8 @@ author : wazaahhh
 
 ***
 
-#### **Machinery : Git**
-- Edit online (limited)
-- Get a local copy of your data / source code
-  - command line : [https://try.github.io](https://try.github.io)
-  - GUI software : [GitHub Desktop](https://desktop.github.com/)
+#### **Other Resources**
 
-
-
-
-<br>
-
-***
-
-#### **Workflow**
-
-- **Newbie:**
-  - [Fork Repo](https://guides.github.com/activities/forking/)
-  - [Clone (make a local copy)](https://guides.github.com/activities/forking/#clone)
-  - [Make & Push Changes](https://guides.github.com/activities/forking/#making-changes)
-  - [Open Pull Request](https://guides.github.com/activities/forking/#making-a-pull-request)
-  - [Post Issues](https://guides.github.com/features/issues/)
-
-- **Expert (on a given repo):**
-  - Become a Core Contributor
-  - [Merge Pull Request](https://help.github.com/articles/merging-a-pull-request/)
-
-- **More Operational Details:**
-  - [How To](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
+- [Data Carpentry](http://www.datacarpentry.org/)
+- [Software Carpentry](software-carpentry.org)
+- [bitbucket](https://bitbucket.org/)
