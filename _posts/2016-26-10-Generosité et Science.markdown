@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Template Blog Post"
+title:  Générosité et Science
 date:   2016-10-26 11:20:00 +0200
 categories: homework,democratic_databases
 author : mpgren
