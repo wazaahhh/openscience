@@ -6,4 +6,4 @@ categories: homework,democratic_databases
 author : yourself
 ---
 
-Je n'ai pas eccrit grand chose pour le travail..
+Je n'ai pas ecrit grand chose pour le travail..
