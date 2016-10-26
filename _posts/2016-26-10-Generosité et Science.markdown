@@ -24,3 +24,5 @@ Et je trouve cela très positif.
 Le fait de partager ce genre de projet avec des gens intéressés par celui-ci ne peut que le rendre meilleur, 
 et permet, à partir d'un effort collectif, une meilleure qualité d'information et de progrès.
 
+:shit:
+
