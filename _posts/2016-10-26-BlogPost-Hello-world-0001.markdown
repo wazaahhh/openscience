@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Résumé de l'article "Democratic databases: science on GitHub""
+title:  "Résumé article"
 date:   2016-10-26 11:30:00 +0200
 categories: homework,democratic_databases
 author : Hello-world-0001
