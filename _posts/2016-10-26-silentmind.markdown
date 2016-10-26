@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lorem blah blah"
+title:  "Lorem ipsum"
 date:   2016-10-26 11:31:00 +0200
 categories: homework,democratic_databases
 author : silentmind
