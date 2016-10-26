@@ -13,3 +13,9 @@ Aujourd’hui GitHub compte 15 millions d’utilisateurs.
 Il permet une collaboration ouverte en proposant un logiciel de contrôle de version pour suivre toutes les modifications effectuées par les membres. Il est totalement transparent. 
 Plusieurs équipes peuvent travailler simultanément sur un projet et revenir en arrière s’il le souhaite à travers les différentes versions.
 Une limite du programme, c’est que pour diffuser du contenu, celui-ci doit être en langage lisible par la machine (ex : code source, fichier XML, CS etc …) mais pas un fichier Excel par exemple. 
+
+<br>
+
+![octocat][octocat]
+
+[octocat]:http://www.nature.com/polopoly_fs/7.39544.1475487651!/image/toobox1.jpg_gen/derivatives/landscape_630/toobox1.jpg
