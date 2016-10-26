@@ -16,3 +16,4 @@ plateformes similaires à GitHub, plateformes qu’une grande majorité des scie
 A la suite de ma lecture de cette article une seule question m’est venue à l’esprit ; pouvons-nous donc envisager de voir, un 
 jour, toutes ces plateformes de partage de données fusionner en faveur d’une seule plateforme et est-ce qu’une telle plateforme
 permettrai de faire avancer le progrès scientifique à une cadence accélérée ? Un jour peut-être nous aurons une réponse…
+sdfg
