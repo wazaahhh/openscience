@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Template Blog Post"
+date:   2016-10-26 11:20:00 +0200
+categories: homework,democratic_databases
+author : yourself
+---
+
