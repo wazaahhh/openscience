@@ -6,7 +6,7 @@ categories: democratic_databases, homework
 author : lahella
 ---
 
-Avant la lecture de l’article « Democratic databesse : science on GitHub » de Jeffrey Perkel, Github était pour moi
+Avant la lecture de l’article « Democratic database : science on GitHub » de Jeffrey Perkel, Github était pour moi
 une plateforme à but non-professionnelle dont le but était de partager des codes pour le plaisir. En lisant 
 l’article, je me suis rapidement rendue compte que selon l’utilisation qu’un utilisateur faisait de GitHub, 
 cette plateforme pouvait être bien plus qu’une simple base de données collective pour codeur. Il s’agit là d’un outil de
