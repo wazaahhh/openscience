@@ -3,7 +3,7 @@ layout: post
 title:  "Une opinion révolutionnaire"
 date:   2016-10-26 11:24:10 +0200
 categories: democratic_databases, homework
-author : Lahella
+author : lahella
 ---
 
 Avant la lecture de l’article « Democratic databesse : science on GitHub » de Jeffrey Perkel, Github était pour moi
