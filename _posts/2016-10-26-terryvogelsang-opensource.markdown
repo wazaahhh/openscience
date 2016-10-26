@@ -2,7 +2,7 @@
 layout: post
 title:  "L'Open Source Académique"
 date:   2016-10-26 01:20:00 +0200
-categories: markdown
+categories: homework, both
 author : terryvogelsang
 ---
 
