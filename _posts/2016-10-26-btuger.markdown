@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Template Blog Post"
+title:  "Paulo - Review"
 date:   2016-10-26 11:27:10 +0200
 categories: homework,democratic_databases
-author : yourself
+author : btuger
 ---
 
 I’ve known Github for a few years, because I’m an adept of open source development, and I’ve followed a couple small projects, but I was still surprised knowing it was used for more than software development, and that it played such a big role in science. 
