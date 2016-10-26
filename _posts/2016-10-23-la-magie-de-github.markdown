@@ -8,4 +8,4 @@ author : matteo113
 
 Selon moi l'article Democratic databases publié dans Nature par Jeffrey Perkel est
 extrêmement intéressant car il parle de github et c'est un site que j'aime bien.
-en plus les octocats osont trop chou =)
+en plus les octocats sont trop chou =)
