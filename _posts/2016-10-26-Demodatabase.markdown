@@ -1,7 +1,8 @@
+---
 layout: post
-title:  "Demodatabase"
-date:   2016-10-26 11:42:00 +0200
-categories: homework,democratic_databases
+title:  "Test demodetabase"
+date:   2016-10-26 01:20:00 +0200
+categories: markdown
 author : xbach6
 ---
 
