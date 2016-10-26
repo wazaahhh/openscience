@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Générosité et Science
-date:   2016-10-26 11:51:00 +0200
-categories: homework,democratic_databases
+date:   2016-10-26 11:20:00 +0200
+categories: markdown
 author : mpgren
 ---
 
