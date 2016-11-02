@@ -5,7 +5,7 @@ date:   2016-10-26 01:20:00 +0200
 categories: markdown
 author : xbach6
 ---
-![Image test](https://cos.io/static/img/icons/osf-connections/Octocat.png)
+![Image test](https://www.wired.com/opinion/wp-content/uploads/2013/03/socialite.jpg)
 
 # Science on Github
 
