@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Homework Next Week"
-date:   2016-10-25 15:35:27 +0200
-categories: homework
+date:   2016-10-30 15:35:27 +0200
+categories: assignment_November_2_2016
 author: Fernandez-Marquez
 ---
 

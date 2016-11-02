@@ -2,7 +2,7 @@
 layout: post
 title:  "Lorem ipsum"
 date:   2016-10-26 11:31:00 +0200
-categories: homework,democratic_databases
+categories: opinion,to_fix
 author : silentmind
 ---
 

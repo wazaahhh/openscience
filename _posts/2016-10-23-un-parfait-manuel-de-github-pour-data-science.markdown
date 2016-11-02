@@ -2,7 +2,7 @@
 layout: post
 title:  "Un Parfait Manuel de Github pour Data Science"
 date:   2016-10-23 20:00:00 +0200
-categories: democratic_databases
+categories: Opinions
 author : yassinhediger
 ---
 
@@ -21,7 +21,7 @@ Même si nous avons aucun travail de recherche à effectuer, l’article saura n
 bouche » pour essayer malgré tout la plateforme. Néanmoins, j’ai une critique négative à formuler,
 l’article n’énonce pas assez les faiblesses du programme. Certes, l’auteur dit que la formule GitHub
 ne permet d’utiliser la plateforme seulement pour les documents lisibles par la machine, « non-
-humain » comme du code source ou des fichier XML mais pas de fichier Word par exemple. Cette
+humain » comme du code source ou des fichiers XML mais pas de fichier Word par exemple. Cette
 critique, n’en n’est pas une en fin de compte, c’est juste une limitation du programme. Il y a bien sûr
-comme tous les programmes des défauts à corriger et ceux-ci ne sont pas énoncé ici. On croirait
+comme tous les programmes des défauts à corriger et ceux-ci ne sont pas énoncés ici. On croirait
 presque que l’auteur travail pour la plateforme et qu’il essaye d’appâter de futurs utilisateurs.

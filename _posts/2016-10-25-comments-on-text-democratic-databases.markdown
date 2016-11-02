@@ -2,7 +2,7 @@
 layout: post
 title:  "Democratic Databases : science on GitHub"
 date:   2016-10-25 22:01:00 +0200
-categories: democratic_databases
+categories: Slides
 author : wazaahhh
 ---
 ***

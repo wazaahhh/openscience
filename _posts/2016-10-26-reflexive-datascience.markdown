@@ -2,7 +2,7 @@
 layout: post
 title:  "Reflexive Datascience"
 date:   2016-10-26 08:30:00 +0200
-categories: datascience
+categories: Slides
 author : wazaahhh
 ---
 

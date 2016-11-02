@@ -2,7 +2,7 @@
 layout: post
 title:  "An ambitious experiment in Data Science takes off"
 date:   2016-10-25 22:02:00 +0200
-categories: fperez_datascience
+categories: Slides
 author : wazaahhh
 ---
 

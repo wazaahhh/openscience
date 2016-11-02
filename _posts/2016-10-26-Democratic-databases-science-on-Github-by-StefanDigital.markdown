@@ -2,11 +2,11 @@
 layout: post
 title:  "Democratic databases comments by StefanDigital"
 date:   2016-10-26 11:20:00 +0200
-categories: homework,democratic_databases
+categories: Opinions
 author : StefanDigital
 ---
 
-La première partie de l’article traite de l’impact qu’a eu Github sur l’implication des différents acteurs dans l’affaire d’Ebola.
+La première partie de l’article traite de l’impact qu’a eu Github sur l’implication des différents acteurs dans le mesure de l'épidémie Ebola.
 Un acte aussi simple que le partage et l’utilisation de données sont au final bien plus conséquentes qu’on le pense,
 puisqu’elles créent tout un mouvement : « Other researchers began to download the data and contribute to the project ».
 

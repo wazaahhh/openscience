@@ -2,7 +2,7 @@
 layout: post
 title:  "GitHub Basics"
 date:   2016-10-25 22:01:20 +0200
-categories: github
+categories: Slides
 author : wazaahhh
 ---
 
