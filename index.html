@@ -8,37 +8,58 @@ layout: default
 
   <ul class="post-list">
 
+  <h1>Opinions</h1>
 
-    {% for category in site.categories %}
+  {% for post in site.posts %}
+  {% for category in post.categories %}
+    {% if category == "Opinions" %}
     <li>
-      <h1>{{ category | first }}</h1>
-        <ul>
-        {% for posts in category %}
-          {% for post in posts %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-          {% endfor %}
-        {% endfor %}
-        </ul>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> | <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="https://github.com/{{ post.author }}">{{ post.author }}</a></span></span>
+
+      <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
     </li>
+    {% endif %}
     {% endfor %}
+  {% endfor %}
 
-    <!--
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="https://github.com/{{ post.author }}">{{ post.author }}</a></span></span>
-        <br>
+  <h1>Slides</h1>
 
-        {% for category in post.categories%}
-        {{category}}
-        <li><a name="{{ category | first }}">{{ category | first }}</a>
-          {% endfor %}
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+  {% for post in site.posts %}
+  {% for category in post.categories %}
+    {% if category == "Slides" %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="https://github.com/{{ post.author }}">{{ post.author }}</a></span></span>
+
+      <h3>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h3>
+    </li>
+    {% endif %}
     {% endfor %}
-  -->
+  {% endfor %}
   </ul>
+
+
+  <h1>Assignments</h1>
+
+  {% for post in site.posts %}
+  {% for category in post.categories %}
+    {% if category == "Assignments" %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="https://github.com/{{ post.author }}">{{ post.author }}</a></span></span>
+
+      <h3>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+  {% endfor %}
+  </ul>
+
+
+
+
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
