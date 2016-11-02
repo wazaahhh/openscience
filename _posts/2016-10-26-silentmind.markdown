@@ -2,7 +2,7 @@
 layout: post
 title:  "Lorem ipsum"
 date:   2016-10-26 11:31:00 +0200
-categories: opinion,to_fix
+categories: Opinions 
 author : silentmind
 ---
 

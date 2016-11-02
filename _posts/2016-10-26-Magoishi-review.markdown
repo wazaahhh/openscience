@@ -2,7 +2,7 @@
 layout: post
 title:  "Template Blog Post"
 date:   2016-10-26 11:24:00 +0200
-categories: opinion,to_fix
+categories: Opinions
 author : Magoishi
 ---
 
